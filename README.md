@@ -97,5 +97,25 @@ Supply Chain Analyst | Procurement Specialist | Operations Analyst
 > Turning supply chain data into actionable strategies for better performance and lower risk.
 
 ---
+### Dashboard 1: Delivery Performance
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ee4d7e11a462f3776_Screenshot%20(30).png" alt="Profile Banner" width="100%"/>
+</p>
+
+### Dashboard 2: Distruption  Risk Intelligence
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6e07a55a820f6ae447_Screenshot%20(31).png" alt="Profile Banner" width="100%"/>
+</p>
+
+### Dashboard 3: Supplier Performance
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ee3a92999fa273280_Screenshot%20(32).png" alt="Profile Banner" width="100%"/>
+</p>
+
+### Dashboard 4: Operations and Cost
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ef9fe3535cbd8666d_Screenshot%20(33).png" alt="Profile Banner" width="100%"/>
+</p>
+
 
 Feel free to explore the interactive Excel dashboard and full analysis in this repository!
