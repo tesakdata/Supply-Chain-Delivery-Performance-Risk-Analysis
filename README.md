@@ -99,22 +99,22 @@ Supply Chain Analyst | Procurement Specialist | Operations Analyst
 ---
 ### Dashboard 1: Delivery Performance
 <p align="left">
-  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ee4d7e11a462f3776_Screenshot%20(30).png" alt="Profile Banner" width="100%"/>
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fb06207597ad661c063a59_Screenshot%20(38).png" alt="Profile Banner" width="100%"/>
 </p>
 
 ### Dashboard 2: Distruption  Risk Intelligence
 <p align="left">
-  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6e07a55a820f6ae447_Screenshot%20(31).png" alt="Profile Banner" width="100%"/>
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fb0557e84d63f23986753f_Screenshot%20(35).png" alt="Profile Banner" width="100%"/>
 </p>
 
 ### Dashboard 3: Supplier Performance
 <p align="left">
-  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ee3a92999fa273280_Screenshot%20(32).png" alt="Profile Banner" width="100%"/>
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fb05577c80174684d4f7b4_Screenshot%20(36).png" alt="Profile Banner" width="100%"/>
 </p>
 
 ### Dashboard 4: Operations and Cost
 <p align="left">
-  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa0f6ef9fe3535cbd8666d_Screenshot%20(33).png" alt="Profile Banner" width="100%"/>
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fb05576b919a8a1bc472cd_Screenshot%20(37).png" alt="Profile Banner" width="100%"/>
 </p>
 
 
