@@ -65,14 +65,7 @@ The analysis was conducted using a structured dataset of 1,000 orders, covering 
 - Lead Time (Order to Delivery)
 - Financial Delay Impact
 
----
 
-## Tools & Techniques
-
-- **Microsoft Excel** – Pivot Tables, KPI Dashboards, Data Analysis
-- Data Cleaning & Transformation
-- Advanced Conditional Formatting & Visualization
-- (Ready for Power BI / SQL extension)
 
 ---
 
